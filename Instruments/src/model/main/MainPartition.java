@@ -29,6 +29,7 @@ public class MainPartition {
 		partition.printPartition();
 		partition.writeLine(notes);
 		partition.printPartition();
+		System.out.println("Ah que coucou");
 		//partition.savePartition("Composition");
 
 	}
